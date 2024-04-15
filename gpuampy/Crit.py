@@ -1,13 +1,13 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Base object of all the input (d12/d3) blocks.
+Tools for working with GPUAM Crit Calculations.
 """
-import pandas as pd
 
 class Crit:
     """
-    Class for recovering data from a GPUAM Crit calculation.
+    Class for recovering and storing data from a GPUAM Crit calculation.
+
     """
 
     def __init__(self, filename):
@@ -140,10 +140,9 @@ class Crit:
     def get_ccp(self):
         return self.dataframes[3]
 
-# Example usage:
-# Create an instance of the DataStorage class and read data from a file
-# data_store = DataStorage("input.txt")
-# data_store.read_data()
-# data = data_store.get_data()
-# print(data)
+# Example usage for displaying critical points data:
+# import gpuampy
+# gpuam_data = gpuampy.Crit("moleculeCrit.log")
+# gpuam_data.read_data()
+# gpuam_data.get_bcp()
 

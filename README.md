@@ -1,7 +1,7 @@
-# GPUAMPy - Python tools for the analysis and process of [GPUAM](http://www.fqt.izt.uam.mx/Profes/JGO/GPUAM/GPUAM.html) results.
+# GPUAMPy - Python tools for analysis and processing of GPUAM results.
 ---
 
-This Python package offers a set of ready to use functionalities that can be helpful for processing results from GPUAM runs.
+This Python package offers a set of ready-to-use functionalities that can be helpful for processing results from [GPUAM](http://www.fqt.izt.uam.mx/Profes/JGO/GPUAM/GPUAM.html)runs.
 
 
 First stable release is still under development.

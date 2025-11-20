@@ -1,1 +1,1 @@
-from gpuampy import Crit
+from gpuampy import io_tools

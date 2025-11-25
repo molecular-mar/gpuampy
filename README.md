@@ -46,7 +46,7 @@ Contributions are what make the open source community such an amazing place to b
 1.  Fork the Project
 2.  Open an Issue.
 3.  Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-4.  *Recommended* Install in developer mode (see [Installation](##installation)) and make your Changes.
+4.  *Recommended* Install in developer mode (see [Installation](#installation-%EF%B8%8F)) and make your Changes.
 5.  Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 6.  Push to the Branch (`git push origin feature/AmazingFeature`)
 7.  Open a Pull Request, [linking to the Issue created](https://docs.github.com/en/issues/tracking-your-work-with-issues/using-issues/linking-a-pull-request-to-an-issue). When possible, include a Colab Notebook with a minimum example of usage.

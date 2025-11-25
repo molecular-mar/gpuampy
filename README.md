@@ -6,11 +6,11 @@ This Python package offers a set of ready-to-use functionalities that can be hel
 
 ## Table of Contents 📑
 
-- [Features](##features)
-- [Installation](##installation)
-- [Usage](##usage)
-- [Contributing](##contributing)
-- [License](##license)
+- [Features](#features-)
+- [Installation](#installation-%EF%B8%8F)
+- [Usage](#usage-)
+- [Contributing](#contributing-)
+- [License](#license-)
 
 ## Features ✨
 
@@ -49,7 +49,7 @@ Contributions are what make the open source community such an amazing place to b
 4.  *Recommended* Install in developer mode (see [Installation](##installation)) and make your Changes.
 5.  Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 6.  Push to the Branch (`git push origin feature/AmazingFeature`)
-7.  Open a Pull Request, (linking to the Issue created)[https://docs.github.com/en/issues/tracking-your-work-with-issues/using-issues/linking-a-pull-request-to-an-issue]. When possible, include a Colab Notebook with a minimum example of usage.
+7.  Open a Pull Request, [linking to the Issue created](https://docs.github.com/en/issues/tracking-your-work-with-issues/using-issues/linking-a-pull-request-to-an-issue). When possible, include a Colab Notebook with a minimum example of usage.
 
 **Name conventions**
 Instead of *feature/AmazingFeature*, use *fix/GreatFix* or *doc/WonderDocumentation* accordingly to your contribution.

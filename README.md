@@ -1,13 +1,10 @@
 # GPUAMPy - Python tools for analysing and processing GPUAM data.
----
 
 ## Description 📄
----
 
 This Python package offers a set of ready-to-use functionalities that can be helpful for processing results from [GPUAM](http://www.fqt.izt.uam.mx/Profes/JGO/GPUAM/GPUAM.html) runs.
 
 ## Table of Contents 📑
----
 
 - [Features](#features)
 - [Installation](#installation)
@@ -16,13 +13,11 @@ This Python package offers a set of ready-to-use functionalities that can be hel
 - [License](#license)
 
 ## Features ✨
----
 
 - Parsing of GPUAM/Cube3D output files to produce `pandas` DataFrames.
 - Many more to come. Suggestions? Open an Issue!
 
 ## Installation 🛠️
----
 
 The package will be included into a Python repository in the near future. Meanwhile, follow the next steps:
 
@@ -41,12 +36,10 @@ The package will be included into a Python repository in the near future. Meanwh
    ```
 
 ## Usage 🚀
----
 
 An ready to use (just provide a .log file) Jupyter notebook example can be consulted in the following [link](https://colab.research.google.com/drive/1cbqqFJx1C4Ww3XPo6Kye6hqoKS91vIYV?usp=sharing).
 
 ## Contributing 🤝
----
 
 Contributions are what make the open source community such an amazing place to be, learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
@@ -62,7 +55,6 @@ Contributions are what make the open source community such an amazing place to b
 Instead of *feature/AmazingFeature*, use *fix/GreatFix* or *doc/WonderDocumentation* accordingly to your contribution.
 
 ## License 📜
----
 
 Distributed under the `MIT` License. See `LICENSE.txt` for more information.
 

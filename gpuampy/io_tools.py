@@ -201,8 +201,8 @@ class Crit:
         return self.dataframes[3]
 
 # Example usage for displaying critical points data:
-# import gpuampy
-# gpuam_data = gpuampy.Crit("moleculeCrit.log")
+# from gpuampy.io_tools import Crit
+# gpuam_data = Crit("moleculeCrit.log")
 # gpuam_data.read_data()
 # gpuam_data.get_bcp()
 

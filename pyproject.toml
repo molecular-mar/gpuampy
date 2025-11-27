@@ -1,0 +1,7 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+[project]
+name = "gpuampy"
+version = "0.0.1"
+description = "Package for processing data from GPUAM runs."

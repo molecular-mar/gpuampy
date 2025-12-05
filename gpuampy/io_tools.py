@@ -184,7 +184,17 @@ class Crit:
 
     def get_nuclei(self):
         return self.nuclei
-        
+    
+    def xyz_nuclei(self):
+        xyz_filename = self.filename[:-8]
+        df_nuclei = self.get_nuclei()
+        lines = [f" {row['type']:<2} {'':5} {row['coord'][0]:8.5f} {row['coord'][1]:8.5f} {row['coord'][2]:8.5f}\n"
+                 for index, row in df_nuclei.iterrows()]
+        with open(f'{xyz_filename}.xyz', 'w') as xyz:
+            xyz.write(f'{self.n_nuclei}\n\n')
+            xyz.writelines(lines)
+        return "Nuclei XYZ created."
+
     def get_data(self):
         return self.dataframes
 

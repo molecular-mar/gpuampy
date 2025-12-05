@@ -21,6 +21,6 @@ Use-case examples will be available as reference of the functionalities and capa
 2. Enter the folder and install with pip (using a local env is recommended):
    ```sh
    cd gpuampy
-   pip install .
+   pip install -e .
    ```
 
